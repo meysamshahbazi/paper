@@ -6,4 +6,5 @@ EM Algorithm for Image Segmentation
 Fast image-based obstacle detection from
 unmanned surface vehicles
 
+https://www.probabilitycourse.com/
 

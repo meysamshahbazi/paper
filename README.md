@@ -8,3 +8,9 @@ unmanned surface vehicles
 
 https://www.probabilitycourse.com/
 
+## GMM for background subtracking opencv ref
+Improved adaptive gaussian mixture model for background subtraction.
+Efficient adaptive density estimation per image pixel for the task of background subtraction.
+
+
+

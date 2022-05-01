@@ -13,4 +13,7 @@ Improved adaptive gaussian mixture model for background subtraction.
 Efficient adaptive density estimation per image pixel for the task of background subtraction.
 
 
+## tracking with gmm:
+Adaptive background mixture models for real-time tracking
+
 

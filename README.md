@@ -16,4 +16,10 @@ Efficient adaptive density estimation per image pixel for the task of background
 ## tracking with gmm:
 Adaptive background mixture models for real-time tracking
 
+### DaSiam
+
+Distractor-aware Siamese Networks for Visual Object Tracking
+
+High Performance Visual Tracking With Siamese Region Proposal Network
+
 

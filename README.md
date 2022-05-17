@@ -22,4 +22,6 @@ Distractor-aware Siamese Networks for Visual Object Tracking
 
 High Performance Visual Tracking With Siamese Region Proposal Network
 
+### SamsFC
+Fully-Convolutional Siamese Networks for Object Tracking
 

@@ -25,3 +25,5 @@ High Performance Visual Tracking With Siamese Region Proposal Network
 ### SamsFC
 Fully-Convolutional Siamese Networks for Object Tracking
 
+### GoTURN
+Learning to track at 100 fps with deep regression networks

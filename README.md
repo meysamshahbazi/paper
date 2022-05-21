@@ -27,3 +27,6 @@ Fully-Convolutional Siamese Networks for Object Tracking
 
 ### GoTURN
 Learning to track at 100 fps with deep regression networks
+
+### DSST
+Accurate Scale Estimation for Robust Visual Tracking

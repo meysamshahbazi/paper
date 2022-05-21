@@ -30,3 +30,6 @@ Learning to track at 100 fps with deep regression networks
 
 ### DSST
 Accurate Scale Estimation for Robust Visual Tracking
+
+### EnKCF
+EnKCF: Ensemble of Kernelized Correlation Filters for High-Speed Object  Tracking

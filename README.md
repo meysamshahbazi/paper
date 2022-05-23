@@ -39,4 +39,5 @@ Spatial-Temporal Attention Mechanism
 
 ### Transformer
 TrackFormer: Multi-Object Tracking with Transformers
-
+## CN
+Adaptive Color Attributes for Real-Time Visual Tracking

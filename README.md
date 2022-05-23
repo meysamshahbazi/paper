@@ -33,3 +33,10 @@ Accurate Scale Estimation for Robust Visual Tracking
 
 ### EnKCF
 EnKCF: Ensemble of Kernelized Correlation Filters for High-Speed Object  Tracking
+### -----------------------------------------------
+Online Multi-Object Tracking Using CNN-based Single Object Tracker with
+Spatial-Temporal Attention Mechanism
+
+### Transformer
+TrackFormer: Multi-Object Tracking with Transformers
+

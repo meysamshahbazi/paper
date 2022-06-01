@@ -41,3 +41,7 @@ Spatial-Temporal Attention Mechanism
 TrackFormer: Multi-Object Tracking with Transformers
 ## CN
 Adaptive Color Attributes for Real-Time Visual Tracking
+
+# DOCKER
+Udemy - Docker Mastery - with Kubernetes +Swarm from a Docker Captain 2021-10
+

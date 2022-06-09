@@ -51,5 +51,7 @@ Udemy - Docker Mastery - with Kubernetes +Swarm from a Docker Captain 2021-10
 
 # SORT
 SIMPLE ONLINE AND REALTIME TRACKING
- 
+
+# mot
+Real-time multi-camera multi-object tracker using YOLOv5 and DeepSort with OSNet 
 

@@ -45,8 +45,11 @@ Adaptive Color Attributes for Real-Time Visual Tracking
 # DOCKER
 Udemy - Docker Mastery - with Kubernetes +Swarm from a Docker Captain 2021-10
  
- # Deep Sort
+# Deep Sort
  
  Simple Online and Realtime Tracking with a Deep Association Metric 
+
+# SORT
+SIMPLE ONLINE AND REALTIME TRACKING
  
 
